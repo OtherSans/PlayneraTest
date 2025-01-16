@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\New folder\\PlayneraTestTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D72FE95C-AB94-D72D-D058-6123562C032F}|Assembly-CSharp.csproj|D:\\SELF-Study!\\GameDev\\MyUnityProj\\New folder\\PlayneraTestTask\\assets\\scripts\\backgroundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72FE95C-AB94-D72D-D058-6123562C032F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72FE95C-AB94-D72D-D058-6123562C032F}|Assembly-CSharp.csproj|D:\\SELF-Study!\\GameDev\\MyUnityProj\\New folder\\PlayneraTestTask\\assets\\scripts\\itemslotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72FE95C-AB94-D72D-D058-6123562C032F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemslotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72FE95C-AB94-D72D-D058-6123562C032F}|Assembly-CSharp.csproj|d:\\self-study!\\gamedev\\myunityproj\\new folder\\playneratesttask\\assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72FE95C-AB94-D72D-D058-6123562C032F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72FE95C-AB94-D72D-D058-6123562C032F}|Assembly-CSharp.csproj|D:\\SELF-Study!\\GameDev\\MyUnityProj\\New folder\\PlayneraTestTask\\assets\\scripts\\transformingobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72FE95C-AB94-D72D-D058-6123562C032F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\transformingobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackgroundController.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\New folder\\PlayneraTestTask\\Assets\\Scripts\\BackgroundController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundController.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\New folder\\PlayneraTestTask\\Assets\\Scripts\\BackgroundController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackgroundController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:31:00.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\New folder\\PlayneraTestTask\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneLoader.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\New folder\\PlayneraTestTask\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:28:07.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransformingObjects.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\New folder\\PlayneraTestTask\\Assets\\Scripts\\TransformingObjects.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TransformingObjects.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\New folder\\PlayneraTestTask\\Assets\\Scripts\\TransformingObjects.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TransformingObjects.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA5wCMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:05:06.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemSlotController.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\New folder\\PlayneraTestTask\\Assets\\Scripts\\ItemSlotController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemSlotController.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\New folder\\PlayneraTestTask\\Assets\\Scripts\\ItemSlotController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemSlotController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAACyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:00:09.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
